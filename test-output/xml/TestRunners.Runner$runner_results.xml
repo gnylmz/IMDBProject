@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="77,261">
+    <properties></properties>
+
+
+
+            <testcase
+                name="runScenario"
+                time="35,575"
+                classname="TestRunners.Runner$runner">
+            </testcase>
+            <testcase
+                name="runScenario"
+                time="41,686"
+                classname="TestRunners.Runner$runner">
+            </testcase>
+</testsuite>
